@@ -1,0 +1,15 @@
+{
+  "name": "node-starter-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "calculate": "node index.js"
+  },
+  "keywords": [],
+  "author": "@Dawit-wt Dawit Bekele",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
