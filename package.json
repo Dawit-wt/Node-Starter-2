@@ -8,8 +8,5 @@
   "keywords": [],
   "author": "@Dawit-wt Dawit Bekele",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "description": ""
 }
